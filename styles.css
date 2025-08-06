@@ -1,0 +1,14 @@
+body {
+    border-radius: 12px;
+    margin: 0;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: aqua;
+    justify-content: center;
+    height: 100vh;
+}
+
+#calculator {
+    background-color: #0000;
+}
